@@ -8,12 +8,6 @@ This Shiny app is developed to support field ecologists and surveyors in process
 - **Automated Analysis of Vegetation Structure and Composition**
 - **Customizable Report Generation**
 
-## Screenshots
-
-![Screenshot 1](screenshots/veg_screenshot1.png)  
-![Screenshot 2](screenshots/veg_screenshot2.png)  
-![Screenshot 3](screenshots/veg_screenshot3.png)
-
 ## Usage
 
 ### Data Validation
